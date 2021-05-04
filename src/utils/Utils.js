@@ -55,7 +55,7 @@ class Utils {
 	}
 
 	static getApiDocUrl() {
-		return `http://${projectPrefix}-api-doc.c4.fruster.se`;
+		return `http://${projectPrefix}-api-doc.test-1.fruster.se`;
 	}
 
     /**
